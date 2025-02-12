@@ -44,17 +44,6 @@
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white)
 
----
-
-## 🎯 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PodongDang&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PodongDang&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
 ## 🏆 Algorithm
 
 <p align="center">
@@ -66,9 +55,7 @@
 ---
 
 ## 📫 How to reach me
-- 📩 Email: [your-email@gmail.com](mailto:your-email@gmail.com)  
-- 💼 LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/your-profile/)  
-- 💻 GitHub: [PodongDang](https://github.com/PodongDang)  
+- 📩 Email: [your-email@gmail.com](amongzamong@gmail.com)    
 
 ---
 
