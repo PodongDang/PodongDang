@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm PodongDang</h1>
+<h1 align="center">Hi there! 👋 I'm Yun Jun Hwang</h1>
 
 <p align="center">
   Passionate about backend development, distributed systems, and cloud-native applications 🚀
